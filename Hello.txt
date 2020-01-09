@@ -1,0 +1,3 @@
+Hey Guys !
+This Repository Consists of all basic python codes like swapping , searching sorting etc.
+Kindly comment if you need help with any problem.
